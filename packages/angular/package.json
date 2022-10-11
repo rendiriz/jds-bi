@@ -1,6 +1,16 @@
 {
   "name": "@jds-bi/angular",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rendiriz/jds-bi.git"
+  },
+  "author": "Rendi Rizki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rendiriz/jds-bi/issues"
+  },
+  "homepage": "https://github.com/rendiriz/jds-bi",
   "peerDependencies": {
     "@angular/common": "^14.2.0",
     "@angular/core": "^14.2.0"
